@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AttentionSpan</string>
+    <string name="study_subjects">Matérias de Estudo</string>
+    <string name="insights">Estatísticas</string>
+    <string name="settings">Configurações</string>
+    <string name="add_subject">Adicionar Matéria</string>
+    <string name="add_new_subject">Adicionar Nova Matéria</string>
+    <string name="subject_name_placeholder">Nome da Matéria (ex: Matemática)</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Voltar</string>
+    <string name="stop">PARAR</string>
+    <string name="start">INICIAR</string>
+    <string name="study_session">Sessão de Estudo</string>
+    <string name="focusing_on">Focado em %1$s</string>
+    <string name="study_timer_channel">Cronômetro de Estudo</string>
+    <string name="study_timer_description">Mostra o cronômetro de estudo ativo</string>
+    <string name="timer_service_subtype">Cronômetro de estudo para acompanhar o foco</string>
+
+    <string name="widget_period">Período do Widget</string>
+    <string name="widget_period_desc">Escolha o período para calcular a média de foco mostrada no widget da tela inicial.</string>
+    <string name="daily">Diário</string>
+    <string name="days_2">2 Dias</string>
+    <string name="weekly">Semanal</string>
+    <string name="monthly">Mensal</string>
+
+    <string name="avg_focus">Média de Foco</string>
+    <string name="best">Melhor</string>
+    <string name="total">Total</string>
+    <string name="sessions">sessões</string>
+    <string name="min_label">min</string>
+    <string name="rolling_7_day_average">Média Móvel de 7 Dias</string>
+    <string name="subject_comparison">Comparação por Matéria</string>
+    <string name="recent_history">Histórico Recente</string>
+    <string name="recent_sessions_delete_hint">Sessões Recentes (Pressione e segure para excluir)</string>
+
+    <string name="focusing_well">Focando Bem</string>
+    <string name="average_focus_badge">Foco Médio</string>
+    <string name="harder_to_focus">Dificuldade em Focar</string>
+
+    <string name="last_n_days">Últimos %1$d dias</string>
+    <string name="min_format">%1$.1f min</string>
+    <string name="focus_stats_label">Estatísticas de Foco</string>
+
+    <string name="statistics">Estatísticas</string>
+    <string name="overview">Visão Geral</string>
+    <string name="by_subject">Por Matéria</string>
+    <string name="delete_session">Excluir Sessão</string>
+    <string name="delete_session_confirm">Tem certeza que deseja excluir esta sessão de estudo?</string>
+    <string name="delete">Excluir</string>
+    <string name="no_data">Nenhum dado disponível</string>
+</resources>
